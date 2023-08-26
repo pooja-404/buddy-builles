@@ -1,0 +1,203 @@
+:root {
+    /* font-size */
+    --fs-20px: 20px;
+    --fs-22px: 22px;
+    --fs-18px: 18px;
+    --fs-70px: 70px;
+    --fs-25px: 25px;
+    --fs-50px: 50px;
+    --fs-30px: 30px;
+    --fs-16px: 16px;
+    --fs-14px: 14px;
+
+    /* font-weight */
+    --fw-600: 600;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-700: 700;
+
+
+    /* font-family */
+    --ff-poppins: 'poppins', sans-serif;
+
+    /* text-color */
+    --bs-white: #fff;
+    --bs-black: #001D49;
+
+    /* background-color */
+    --bg-white: #fff;
+}
+
+.mail {
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    font-family: var(--ff-'poppins', sans-serif);
+}
+
+.logo {
+    color: var(--bs-white);
+    font-size: var(--fs-22px);
+    font-weight: var(--fw-600);
+    font-family: var(--ff-'poppins', sans-serif);
+}
+
+.font1 {
+    color: var(--bs-white);
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-18px);
+    font-weight: var(--fw-500);
+}
+
+.font2 {
+    color: var(--bs-white);
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-70px);
+    font-weight: var(--fw-400)
+}
+
+.font3 {
+    color: var(--bs-white);
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-70px);
+    font-weight: var(--fw-700);
+}
+
+.font4 {
+    color: var(--bs-white);
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-20px);
+    font-weight: var(--fw-500);
+
+}
+
+.btn3 {
+    background: var(--bg-white);
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-25px);
+    font-weight: var(--fw-500);
+    color: var(--bs-black)
+}
+
+.font5 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+    color: var(--bs-white);
+}
+
+.font6 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-500);
+    color: var(--bs-white);
+}
+
+.font7 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+
+}
+
+.btn4 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-500);
+    background: var(--bg-white);
+    color: var(--bs-black);
+}
+
+.font8 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+    color: var(--bs-white);
+}
+
+.font9 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+
+}
+
+.font10 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+    color: var(--bs-white);
+}
+
+.font11 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+}
+
+.font12 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-500);
+    color: var(--bs-white);
+
+}
+
+.font13 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-50px);
+    font-weight: var(--fw-600);
+    color: var(--bs-white);
+}
+
+.font14 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-600);
+    color: var(--bs-white);
+}
+
+.font15 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-18px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+}
+
+.logo2 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-30px);
+    font-weight: var(--fw-500);
+    color: var(--bs-white);
+}
+
+.para {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+}
+
+.font16 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-500);
+    color: var(--bs-white);
+}
+
+.font17 {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-14px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+
+}
+
+.mail-text {
+    font-family: var(--ff-'poppins', sans-serif);
+    font-size: var(--fs-16px);
+    font-weight: var(--fw-400);
+    color: var(--bs-white);
+}
